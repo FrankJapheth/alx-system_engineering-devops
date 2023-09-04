@@ -1,5 +1,4 @@
 Shell, I/O Redirections and filters
 
-Bash shell scripts
+I/O bash shell scripts
 
-0-hello_world: Prints hello world with a new line
