@@ -5,3 +5,4 @@ Bash shell scripts
 2-hello_file: Prints the contents of /etc/passwd file
 3-twofiles: Prints the contents of /etc/passwd an /etc/hosts files
 4-lastlines: Prints last 10 lines of /etc/passwd
+5-firstlines: Prints first 10 lines of /etc/passwd
