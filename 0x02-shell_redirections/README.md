@@ -13,3 +13,4 @@ Bash shell scripts
 10-no_more_js: Deletes all .js files in the working directory
 11-directories:counts all directories and subdirectories in a given directory
 12-newest_files: list 10 newest files in your cwd
+13-unique: list uniq words from a given list of words
