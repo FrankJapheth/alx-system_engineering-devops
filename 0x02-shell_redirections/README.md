@@ -11,3 +11,4 @@ Bash shell scripts
 8-cwd_state: Writes the contents of cwd to ls_cwd_content
 9-duplicate_last_line: Appends the last line of iacta to itself
 10-no_more_js: Deletes all .js files in the working directory
+11-directories:counts all directories and subdirectories in a given directory
