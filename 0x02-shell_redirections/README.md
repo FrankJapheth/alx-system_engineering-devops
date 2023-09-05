@@ -8,5 +8,6 @@ Bash shell scripts
 5-firstlines: Prints first 10 lines of /etc/passwd
 6-third_line: Prints third line of iacta file
 7-file: Creates this file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) (Couldn't do it :))
-8-cwd_state: writes the contents of cwd to ls_cwd_content
-9-duplicate_last_line: appends the last line of iacta to itself
+8-cwd_state: Writes the contents of cwd to ls_cwd_content
+9-duplicate_last_line: Appends the last line of iacta to itself
+10-no_more_js: Deletes all .js files in the working directory
