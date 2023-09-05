@@ -8,3 +8,4 @@ Bash shell scripts
 5-firstlines: Prints first 10 lines of /etc/passwd
 6-third_line: Prints third line of iacta file
 7-file: Creates this file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) (Couldn't do it :))
+8-cwd_state: writes the contents of cwd to ls_cwd_content
