@@ -15,3 +15,4 @@ Bash shell scripts
 12-newest_files: list 10 newest files in your cwd
 13-unique: list uniq words from a given list of words
 14-findthatword: list root lines from /etc/passwd
+15-countthatword: displays the number of lines containing 'bin' from /etc/passwd
